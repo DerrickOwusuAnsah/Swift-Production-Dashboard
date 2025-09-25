@@ -1,0 +1,73 @@
+# SwiftShip Production Dashboard  
+
+An interactive **Power BI dashboard** built with free/sample data to analyse global movie and TV show trends. It highlights ratings, genres, release years, directors, and countries, with an intuitive collapsible filter panel for deeper exploration.  
+
+---
+
+## 📖 Overview  
+This dashboard demonstrates how entertainment data can be turned into actionable insights for media analytics and decision-making. It provides a comprehensive overview of the film and TV ecosystem, enabling exploration by **ratings, genres, geographies, time, and type (movies vs. TV shows).**  
+
+---
+
+## 📸 Screenshots  
+
+### Main Dashboard View  
+![SwiftShip Dashboard Main](./SwiftShip_Production_dashboard-1.png)  
+
+### Collapsible Filter Panel (Country & Release Year)  
+![SwiftShip Dashboard Filter Panel](./SwiftShip_Production_dashboard-2.png)  
+
+---
+
+## 🎯 What It Shows  
+- **Catalogue Size**: 9,655 titles across 25 ratings, 519 genres, and 5,771 directors  
+- **Ratings Analysis**: Distribution of shows across age categories (e.g., 13+, 18+)  
+- **Genre Insights**: Popular genres such as Drama, Comedy, Documentary, Kids, and Action  
+- **Geographic Spread**: Global distribution of titles by country  
+- **Movies vs. TV Shows**: Proportion of content across both formats  
+- **Timeline Trends**: Growth of titles released between 1920–2021  
+
+---
+
+## 🛠️ Tools & Skills Demonstrated  
+- **Power BI** for data visualization and reporting  
+- **Power Query** for cleaning and transforming datasets  
+- **DAX** for building interactive measures  
+- **Mapping Visuals** for geographic insights  
+- **User Experience Design** with collapsible filter panels for streamlined analysis  
+
+---
+
+## 🧩 Key Feature: Collapsible Filter Panel  
+The second screenshot highlights a **collapsible filter panel** that allows users to refine results dynamically.  
+- Filters by **Country** and **Movies Release Year**  
+- Panel can be expanded or collapsed, saving screen space  
+- Enhances user experience by keeping visuals clean while still enabling deep dives  
+
+---
+
+## 📊 Example Insights  
+- Drama dominates with over 3,000 shows, followed by Comedy and Documentaries  
+- Title releases accelerate sharply after 2000, showing industry growth  
+- Movies (7.8K) far outnumber TV shows (1.9K) in the dataset  
+- Production is globally spread, with notable concentrations in the US, UK, and India  
+
+---
+
+## 🚀 How to Use  
+1. Download the `.pbix` file from this repo.  
+2. Open in **Power BI Desktop**.  
+3. Use the **collapsible filter panel** to slice data by country or release year.  
+4. Explore global trends in ratings, genres, and formats.  
+
+---
+
+## 🔑 Why This Matters for Employers  
+This project demonstrates my ability to:  
+- Build **entertainment/media analytics dashboards** with clean UX  
+- Implement advanced **Power BI features** (collapsible filter panel, mapping, interactive visuals)  
+- Tell a clear story from raw data to actionable insights  
+- Design outputs relevant for **data-driven decision-making** in both private sector and development contexts  
+
+---
+👉 *All data used is sample/free data — no sensitive or proprietary information.*  
